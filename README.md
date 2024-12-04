@@ -10,7 +10,7 @@
 
 ## Table of Contents 📑
 
-<li><a href="#introduction">💡 Introduction]</a></li>
+<li><a href="#introduction">💡 Introduction</a></li>
 <li><a href="#about-the-dataset">📊 About the Dataset</a></li>
 <li><a href="#skills-developed">🔧 Skills Developed</a></li>
 <li><a href="#project-tasks">📝 Project Tasks</a></li>
@@ -81,12 +81,15 @@ A dashboard that analyzes employee performance ratings and compares them across 
 - Power BI
 - Data Visualization
 - Data Analytics
+
 <h2 id="certificate">Certificate 🎓</h2>
 I have earned a certificate of completion for this project, which signifies my proficiency in using Power BI for data analytics and visualization.
+
 [Certificate](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/PWC%20Certificate.pdf)
 ---
 
 <h2 id="how-to-use">How to Use 🛠️</h2>
+
 - Clone the repository to your local machine.
 - Open the Power BI report files (.pbix) to view and interact with the dashboards.
 - Load the Excel files to Power BI to update data sources as needed.
