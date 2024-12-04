@@ -10,22 +10,24 @@
 
 ## Table of Contents 📑
 
-- [💡 Introduction](#introduction)
-- [📊 About the Dataset](#about-the-dataset)
-- [🔧 Skills Developed](#skills-developed)
-- [📝 Project Tasks](#project-tasks)
-- [🔍 Key Insights](#key-insights)
-- [🚀 Future Work](#future-work)
-- [✔️ Conclusion](#conclusion)
-- [📈 Power BI Dashboard](#power-bi-dashboard)
-- [🎓 Certificate](#certificate)
+<li><a href="#introduction">💡 Introduction]</a></li>
+<li><a href="#about-the-dataset">📊 About the Dataset</a></li>
+<li><a href="#skills-developed">🔧 Skills Developed</a></li>
+<li><a href="#project-tasks">📝 Project Tasks</a></li>
+<li><a href="#key-insights">🔍 Key Insights</a></li>
+<li><a href="#future-work">🚀 Future Work</a></li>
+<li><a href="#conclusion">✔️ Conclusion</a></li>
+<li><a href="#skills-tools">🔧 Skills and Tools</a></li>
+<li><a href="#power-bi-dashboard">📈 Power BI Dashboard</a></li>
+<li><a href="#certificate">🎓 Certificate</a></li>
+<li><a href="#how-to-use">🛠️ How to Use </h2></a></li>
 
 ---
 
-## Introduction 💡
+<h2 id="introduction">Introduction 💡</h2>
 This project focuses on data analytics and visualization using Power BI, where you will explore three key datasets: Diversity-Inclusion-Dataset, Churn-Dataset, and Call-Center-Dataset. Through the analysis, relevant KPIs in hiring, promotion, performance, and turnover are identified, and insightful visualizations are created to represent them effectively.
 
-## About the Dataset 📊
+<h2 id="about-the-dataset"> About the Dataset 📊</h2>
 The datasets used in this project include:
 
 ### [Diversity-Inclusion-Dataset](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
@@ -39,32 +41,33 @@ The call center dataset helps analyze employee performance and turnover within a
 
 These datasets have been used to calculate various KPIs and create interactive Power BI dashboards.
 
-## Skills Developed 🔧
+<h2 id="skills-developed"> Skills Developed 🔧</h2>
 In this project, I developed key skills in:
 - Data cleaning and transformation using Power BI
 - Creating KPIs for analyzing hiring, promotion, performance, and turnover
 - Designing and building interactive dashboards
 - Utilizing advanced Power BI features like gauge charts, stacked bar charts, heatmaps, and box plots.
 
-## Project Tasks 📝
+<h2 id="project-tasks"> Project Tasks 📝</h2>
 - Analyzed employee hiring, promotion, performance, and turnover data.
 - Created visualizations such as stacked bar charts, clustered column charts, and heatmaps.
 - Used Power BI features to create meaningful KPIs and analyze trends in employee data.
 
-## Key Insights 🔍
+<h2 id="key-insights">Key Insights 🔍</h2>
 - Identified key trends in employee turnover based on age, gender, and department.
 - Determined factors influencing promotion rates and performance metrics.
 - Explored diversity patterns in hiring and the impact on career growth.
 
-## Future Work 🚀
+<h2 id="future-work">Future Work 🚀</h2>
 - Improve the interactive functionality of Power BI dashboards.
 - Add predictive analytics features to the project for forecasting turnover and promotions.
 - Further analyze employee performance based on additional factors like location and department.
 
-## Conclusion ✔️
+<h2 id="conclusion">Conclusion ✔️</h2>
 This project provided valuable insights into workforce dynamics and helped develop a strong understanding of Power BI as a tool for HR analytics. It contributed to better decision-making through the use of data-driven KPIs.
 
-## Power BI Dashboard 📈
+<h2 id="power-bi-dashboard">Power BI Dashboard 📈</h2>
+
 ### [Diversity & Inclusion Dashboard](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/Diversity%20%26%20Inclusion.pbix)
 A comprehensive dashboard providing insights into diversity, hiring, and promotion metrics across different demographic groups.
 
@@ -74,16 +77,29 @@ This dashboard visualizes turnover rates, employee retention, and performance me
 ### [Performance Analysis Dashboard](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/Call%20Center%20Solution.pbix)
 A dashboard that analyzes employee performance ratings and compares them across different departments and job levels.
 
-## Skills and Tools
+<h2 id="skills-tools">Skills and Tools🔧</h2
 - Power BI
 - Data Visualization
 - Data Analytics
-## Certificate 🎓
+<h2 id="certificate">Certificate 🎓</h2>
 I have earned a certificate of completion for this project, which signifies my proficiency in using Power BI for data analytics and visualization.
 [Certificate](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/PWC%20Certificate.pdf)
 ---
 
-### How to Use 🛠️
+<h2 id="how-to-use">How to Use 🛠️</h2>
 - Clone the repository to your local machine.
 - Open the Power BI report files (.pbix) to view and interact with the dashboards.
 - Load the Excel files to Power BI to update data sources as needed.
+
+# Thank You! 🙏
+
+Thank you for reviewing my project on **Diversity and Inclusion Analytics with Power BI**. I appreciate your time and consideration. 😊
+
+Feel free to reach out for any further questions or collaboration opportunities! 🤝
+
+---
+
+Best regards,  
+**Priya Singh** ✨
+
+
